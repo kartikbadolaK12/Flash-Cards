@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 95aab4bfe2f8eae40aa31c2f62bd0eea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6951257894420625217
+    second: LifeCycleOfChicken1_0
+  - first:
+      213: 2617805074854279593
+    second: LifeCycleOfChicken1_1
+  - first:
+      213: -7546399881050146760
+    second: LifeCycleOfChicken1_2
+  - first:
+      213: 1096701955097512985
+    second: LifeCycleOfChicken1_3
+  - first:
+      213: 8099809386283014407
+    second: LifeCycleOfChicken1_4
+  - first:
+      213: -3832638607993608123
+    second: LifeCycleOfChicken1_5
+  - first:
+      213: 1845962340174224201
+    second: LifeCycleOfChicken1_6
+  - first:
+      213: 7635718510725833232
+    second: LifeCycleOfChicken1_7
+  - first:
+      213: 5359865631109732081
+    second: LifeCycleOfChicken1_8
+  - first:
+      213: -1391384409416791423
+    second: LifeCycleOfChicken1_9
+  - first:
+      213: 6321514018602712001
+    second: LifeCycleOfChicken1_10
+  - first:
+      213: 2193970565861500742
+    second: LifeCycleOfChicken1_11
+  - first:
+      213: -127210370459678639
+    second: LifeCycleOfChicken1_12
+  - first:
+      213: -1781048296071266378
+    second: LifeCycleOfChicken1_13
+  - first:
+      213: -398175283064853991
+    second: LifeCycleOfChicken1_14
+  - first:
+      213: -1706138412481067603
+    second: LifeCycleOfChicken1_15
+  - first:
+      213: -8335586801257861755
+    second: LifeCycleOfChicken1_16
+  - first:
+      213: 2042352325687311325
+    second: LifeCycleOfChicken1_17
+  - first:
+      213: 1332728580019951089
+    second: LifeCycleOfChicken1_18
+  - first:
+      213: -7115802950310154594
+    second: LifeCycleOfChicken1_19
+  - first:
+      213: -1914094955388660969
+    second: LifeCycleOfChicken1_20
+  - first:
+      213: -7948859322031979552
+    second: LifeCycleOfChicken1_21
+  - first:
+      213: -3805276148979621458
+    second: LifeCycleOfChicken1_22
+  - first:
+      213: -8293304295102927867
+    second: LifeCycleOfChicken1_23
+  - first:
+      213: -5566400044104744688
+    second: LifeCycleOfChicken1_24
+  - first:
+      213: -7952780148412244839
+    second: LifeCycleOfChicken1_25
+  - first:
+      213: -2510539753090126726
+    second: LifeCycleOfChicken1_26
+  - first:
+      213: -4403946714245738796
+    second: LifeCycleOfChicken1_27
+  - first:
+      213: -5835131562163092085
+    second: LifeCycleOfChicken1_28
+  - first:
+      213: -133504361708441523
+    second: LifeCycleOfChicken1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_0
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 7122
+        width: 1859
+        height: 1772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1473213c934d77060800000000000000
+      internalID: 6951257894420625217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_1
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 6379
+        width: 3370
+        height: 3589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a977e988df445420800000000000000
+      internalID: 2617805074854279593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_2
+      rect:
+        serializedVersion: 2
+        x: 7075
+        y: 6799
+        width: 1896
+        height: 2001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838b4fc6a4dc54790800000000000000
+      internalID: -7546399881050146760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4627
+        width: 1268
+        height: 2430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c401a1e94483f00800000000000000
+      internalID: 1096701955097512985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_4
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 4970
+        width: 335
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70916c1e8bd486070800000000000000
+      internalID: 8099809386283014407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_5
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 4970
+        width: 208
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548e7120e7bbfcac0800000000000000
+      internalID: -3832638607993608123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_6
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 4970
+        width: 347
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b55d2d7fc2e9910800000000000000
+      internalID: 1845962340174224201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_7
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 4970
+        width: 360
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01220bc978587f960800000000000000
+      internalID: 7635718510725833232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_8
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 4961
+        width: 365
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6de1ac461126a40800000000000000
+      internalID: 5359865631109732081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_9
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 4970
+        width: 397
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a02b2604fc0bce0800000000000000
+      internalID: -1391384409416791423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_10
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 4961
+        width: 365
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7771d1878ab750800000000000000
+      internalID: 6321514018602712001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_11
+      rect:
+        serializedVersion: 2
+        x: 5443
+        y: 4970
+        width: 335
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64766d10b9c827e10800000000000000
+      internalID: 2193970565861500742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_12
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 4970
+        width: 360
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158410197de0c3ef0800000000000000
+      internalID: -127210370459678639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_13
+      rect:
+        serializedVersion: 2
+        x: 6307
+        y: 4961
+        width: 421
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7bd8d2027847e0800000000000000
+      internalID: -1781048296071266378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_14
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 4970
+        width: 347
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a249e80b5697af0800000000000000
+      internalID: -398175283064853991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_15
+      rect:
+        serializedVersion: 2
+        x: 7228
+        y: 4970
+        width: 427
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5ca6247249258e0800000000000000
+      internalID: -1706138412481067603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_16
+      rect:
+        serializedVersion: 2
+        x: 8327
+        y: 4666
+        width: 1459
+        height: 1971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d2794d7fb025c80800000000000000
+      internalID: -8335586801257861755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2317
+        width: 1290
+        height: 2161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbf8ce8e94e75c10800000000000000
+      internalID: 2042352325687311325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_18
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 3998
+        width: 546
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5991a159dce7210800000000000000
+      internalID: 1332728580019951089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_19
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 4012
+        width: 671
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e2617fae69f3d90800000000000000
+      internalID: -7115802950310154594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_20
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 4012
+        width: 311
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71311b587c4cf65e0800000000000000
+      internalID: -1914094955388660969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_21
+      rect:
+        serializedVersion: 2
+        x: 4792
+        y: 3998
+        width: 547
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e34bbcbf8affa190800000000000000
+      internalID: -7948859322031979552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_22
+      rect:
+        serializedVersion: 2
+        x: 5392
+        y: 4012
+        width: 622
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1adc3f081f03bc0800000000000000
+      internalID: -3805276148979621458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_23
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 4012
+        width: 538
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c2b24fea348ec80800000000000000
+      internalID: -8293304295102927867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_24
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 3985
+        width: 652
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0110b65e6ac20c2b0800000000000000
+      internalID: -5566400044104744688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_25
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 2489
+        width: 944
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1c15379c02a190800000000000000
+      internalID: -7952780148412244839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_26
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 963
+        width: 944
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce09e5565c82dd0800000000000000
+      internalID: -2510539753090126726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_27
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 936
+        width: 1460
+        height: 2028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de42a7ebc902e2c0800000000000000
+      internalID: -4403946714245738796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_28
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 930
+        width: 2654
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85499392c2750fa0800000000000000
+      internalID: -5835131562163092085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeCycleOfChicken1_29
+      rect:
+        serializedVersion: 2
+        x: 6857
+        y: 970
+        width: 1460
+        height: 1972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4037688d72b52ef0800000000000000
+      internalID: -133504361708441523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LifeCycleOfChicken1_0: 6951257894420625217
+      LifeCycleOfChicken1_1: 2617805074854279593
+      LifeCycleOfChicken1_10: 6321514018602712001
+      LifeCycleOfChicken1_11: 2193970565861500742
+      LifeCycleOfChicken1_12: -127210370459678639
+      LifeCycleOfChicken1_13: -1781048296071266378
+      LifeCycleOfChicken1_14: -398175283064853991
+      LifeCycleOfChicken1_15: -1706138412481067603
+      LifeCycleOfChicken1_16: -8335586801257861755
+      LifeCycleOfChicken1_17: 2042352325687311325
+      LifeCycleOfChicken1_18: 1332728580019951089
+      LifeCycleOfChicken1_19: -7115802950310154594
+      LifeCycleOfChicken1_2: -7546399881050146760
+      LifeCycleOfChicken1_20: -1914094955388660969
+      LifeCycleOfChicken1_21: -7948859322031979552
+      LifeCycleOfChicken1_22: -3805276148979621458
+      LifeCycleOfChicken1_23: -8293304295102927867
+      LifeCycleOfChicken1_24: -5566400044104744688
+      LifeCycleOfChicken1_25: -7952780148412244839
+      LifeCycleOfChicken1_26: -2510539753090126726
+      LifeCycleOfChicken1_27: -4403946714245738796
+      LifeCycleOfChicken1_28: -5835131562163092085
+      LifeCycleOfChicken1_29: -133504361708441523
+      LifeCycleOfChicken1_3: 1096701955097512985
+      LifeCycleOfChicken1_4: 8099809386283014407
+      LifeCycleOfChicken1_5: -3832638607993608123
+      LifeCycleOfChicken1_6: 1845962340174224201
+      LifeCycleOfChicken1_7: 7635718510725833232
+      LifeCycleOfChicken1_8: 5359865631109732081
+      LifeCycleOfChicken1_9: -1391384409416791423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

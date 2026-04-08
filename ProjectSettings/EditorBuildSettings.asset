@@ -23,15 +23,24 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Friction And Air Resitance/Scenes/Friction.unity
     guid: db3c66694369e6448a536bd1dadc8cda
-  - enabled: 1
+  - enabled: 0
     path: Assets/Cell Functions and Processes/Scenes/CellsFunctionProcess.unity
     guid: 2892348abc66e5e45810648721f3425d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Cell Functions and Processes/Scenes/CellsFunctionProcess 1.unity
     guid: 4687eacb89fb9af479cb9198121e5834
   - enabled: 0
     path: Assets/Place Value And Representaion of Whole Numbers/Scenes/PlaceValue.unity
     guid: 9589c24326b642a4e9be2720bfca8bd9
+  - enabled: 0
+    path: Assets/Kids/Glossary/Scenes/Glossary.unity
+    guid: 2876cd2a1ef1b18478531d8f91fb42e6
+  - enabled: 1
+    path: Assets/Kids/What are Life Processes/Scenes/LifeProcesses.unity
+    guid: 646b332833fd8df42820df41b851cc9b
+  - enabled: 1
+    path: Assets/Kids/What are Life Processes/Scenes/LifeProcesses 2.unity
+    guid: 758ce7b13aa47b84da3e46d478f8f788
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
